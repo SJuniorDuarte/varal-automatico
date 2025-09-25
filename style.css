@@ -1,0 +1,10 @@
+.image-project {
+  width: 600px;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.color-develop {
+  background-color: #1b2537;
+}
